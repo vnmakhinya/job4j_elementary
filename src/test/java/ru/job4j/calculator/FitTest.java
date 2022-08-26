@@ -7,7 +7,7 @@ import org.junit.Assert;
 public class FitTest {
 
     @Test
-    public void whenMan187Then100() {
+    public void whenMan187Then100dot05() {
         short in = 187;
         double expected = 100.05;
         double out = Fit.manHeight(in);
