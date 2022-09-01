@@ -11,6 +11,5 @@ public class Triangle {
         double bc = 2.0;
         boolean result = Triangle.exist(ab, ac, bc);
         System.out.println(result);
-
     }
 }
