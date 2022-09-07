@@ -31,5 +31,6 @@ class CounterTest {
         int expected = 110;
         assertThat(result).isEqualTo(expected);
     }
+
 }
 
