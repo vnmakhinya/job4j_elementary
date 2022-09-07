@@ -13,9 +13,8 @@ class CounterTest {
         int expected = 15;
         assertThat(result).isEqualTo(expected);
     }
-}
 
-   /* @Test
+    @Test
     void whenSumEvenNumbersFromOneToTenThenThirty() {
         int start = 1;
         int finish = 10;
@@ -25,4 +24,3 @@ class CounterTest {
     }
 }
 
-    */
